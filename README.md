@@ -1,3 +1,14 @@
+
+<h1>Frases do dia</h1>
+
+App desenvolvido com android studio, Flutter e linguagem de programação Dart, gera um versículo bíblico relacionado a fé a cada clique no botão.
+Cursos Udemy, flutter com Prof. Jamilton.
+
+<h2>Tela</h2>
+
+<p><img src= "preview.png" width= "200"/></p>
+
+
 # flutterfrasesdodiadiogenes
 
 A new Flutter application.
